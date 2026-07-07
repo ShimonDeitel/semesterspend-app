@@ -1,0 +1,27 @@
+{
+  "identifier" : "SemesterspendProducts",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "semesterspend_pro",
+      "localizations" : [
+        {
+          "description" : "Semester-over-semester comparison",
+          "displayName" : "Semesterspend Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.semesterspend.pro",
+      "referenceName" : "Semesterspend Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
